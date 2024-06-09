@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # clientserver
 
 ## Project setup
